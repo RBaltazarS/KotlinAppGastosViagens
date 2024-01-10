@@ -1,5 +1,5 @@
 
-# AppConsumoCombustibel
+# AppConsumoCombustivel
 
 Este é um aplicativo Mobile de gerenciamento de gastos com combustivel desenvolvido em Kotlin.
 
