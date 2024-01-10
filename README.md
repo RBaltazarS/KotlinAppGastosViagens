@@ -16,11 +16,10 @@ Este é um aplicativo Mobile de gerenciamento de gastos com combustivel desenvol
 
 ## Screenshots
 
-![1](https://github.com/RBaltazarS/KotlinAppGastosViagens/assets/63020237/c225c648-7765-41af-8032-91a483bb90dc )
-
-![2](https://github.com/RBaltazarS/KotlinAppGastosViagens/assets/63020237/d0d57e87-4fec-4d1f-8656-c6360fd7c3e2)
+<img src="https://github.com/RBaltazarS/KotlinAppGastosViagens/assets/63020237/d0d57e87-4fec-4d1f-8656-c6360fd7c3e2" width="200" height="400" style="max-width:100%;"></img>
 
 <img src="https://github.com/RBaltazarS/KotlinAppGastosViagens/assets/63020237/d0d57e87-4fec-4d1f-8656-c6360fd7c3e2" width="200" height="400" style="max-width:100%;"></img>
+
 
 ## Autores
 
